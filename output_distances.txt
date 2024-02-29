@@ -1,0 +1,6 @@
+Shortest distance to node 1: 0
+Shortest distance to node 2: 1
+Shortest distance to node 3: 2
+Shortest distance to node 4: 3
+Shortest distance to node 5: 4
+Shortest distance to node 6: 5
